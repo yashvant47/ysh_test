@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.4.0">
+  <diagram name="Page-1" id="NvLoAffWlxcPs-l2kGlI">
+    <mxGraphModel dx="748" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#008200;strokeColor=#008200;fontColor=#FFFFFF;" value="&lt;b&gt;Passenger&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-2" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="220" y="200" as="sourcePoint" />
+            <mxPoint x="320" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-3" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="220" y="219.5" as="sourcePoint" />
+            <mxPoint x="320" y="219.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-4" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="220" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-8" connectable="0" parent="q4PxsR29jyw9yMvHdcUg-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ticket Info" vertex="1">
+          <mxGeometry relative="1" x="0.4327" y="-4" as="geometry">
+            <mxPoint x="12" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cancellation" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Reservation" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008200;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Railway&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Reservation&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="330" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-10" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="590" y="195" as="sourcePoint" />
+            <mxPoint x="450" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Up/down Train info" vertex="1">
+          <mxGeometry height="20" width="110" x="460" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-15" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="460" y="219.5" as="sourcePoint" />
+            <mxPoint x="590" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Reserve/Cancel Info" vertex="1">
+          <mxGeometry height="30" width="120" x="460" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-17" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="460" y="240" as="sourcePoint" />
+            <mxPoint x="590" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Passenger Info" vertex="1">
+          <mxGeometry height="30" width="90" x="470" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-19" parent="1" style="whiteSpace=wrap;html=1;fillColor=#008200;strokeColor=#008200;fontColor=#FFFFFF;" value="&lt;b&gt;Admin&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="q4PxsR29jyw9yMvHdcUg-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;fontColor=#008200;" value="0-LEVEL DFD" vertex="1">
+          <mxGeometry height="30" width="130" x="315" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
